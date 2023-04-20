@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.a1e2d63a.js",
-    "index.html": "/index.html",
-    "main.a1e2d63a.js.map": "/static/js/main.a1e2d63a.js.map"
+    "main.js": "/color-flipper/static/js/main.a1e2d63a.js",
+    "index.html": "/color-flipper/index.html",
+    "main.a1e2d63a.js.map": "/color-flipper/static/js/main.a1e2d63a.js.map"
   },
   "entrypoints": [
     "static/js/main.a1e2d63a.js"
